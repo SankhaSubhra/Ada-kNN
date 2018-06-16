@@ -1,7 +1,7 @@
 # A MATLAB implementation of Ada-kNN, Ada-kNN2, Ada-kNN+GIHS and Ada-kNN2+GIHS.
 ## Written by: Sankha Subhra Mullick.
 
-### Reference: To be updated shortly.
+### Reference: S. S. Mullick, S. Datta and S. Das, "Adaptive Learning-Based k-Nearest Neighbor Classifiers With Resilience to Class Imbalance," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2018.2812279.
 ### Contact: mullicksankhasubhra@gmail.com (Sankha Subhra Mullick). 
 
 ### DESCRIPTION:
